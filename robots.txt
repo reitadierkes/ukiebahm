@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eimieraix.syncleus.com/sitemap.xml
